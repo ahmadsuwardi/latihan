@@ -1,5 +1,6 @@
 <?php
     $username = $_POST['username'];
+$AKU = "123";
     $password = $_POST['password'];
 
     if($username == "alex" && $password ="12345"){
